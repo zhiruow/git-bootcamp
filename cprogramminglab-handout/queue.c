@@ -110,3 +110,7 @@ void q_reverse(queue_t *q)
     /* You need to write the code for this function */
 }
 
+/*
+  Modify something here.
+  zhiruow
+ */
